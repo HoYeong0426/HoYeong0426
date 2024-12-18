@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <!--
 **HoYeong0426/HoYeong0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
