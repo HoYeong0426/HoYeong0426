@@ -41,7 +41,7 @@
   <a href="https://rich-yuna-daddy.tistory.com">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:cjsghdud426@gmail.com">
+  <a href="cjsghdud426@gmail.com">
     <img
       src="https://img.shields.io/badge/cjsghdud426@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
