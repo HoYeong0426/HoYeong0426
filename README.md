@@ -40,7 +40,7 @@ Backend Developer
 
 레거시 시스템 Spring Boot 기반 웹 시스템으로 전환 프로젝트
 
-- 기간 : 2024.06 ~
+- 기간 : 2023.10 ~
 - 역할
   - Micro/Mini Service 아키텍처 설계 참여 (Feign + Eureka 기반)
   - 백엔드 및 프론트엔드 구조를 전면 재설계
