@@ -1,65 +1,68 @@
-<!--타이틀 부분-->
+# 천호영
+
+Backend Developer
+
+- 취미 : 운동
+- Email : cjsghdud426@gmail.com
+- Github : https://github.com/HoYeong0426
+- Blog: https://rich-yuna-daddy.tistory.com/
+
+## 보유 기술
+
+- Backend: Java 17, Spring Boot, MyBatis, JPA
+- Frontend: jQuery, Thymeleaf, Wijmo, Bootstrap
+- Database: Oracle (PL/SQL), MySQL, Redis (학습 중)
+- Infra: Docker, Kfaka(학습 중), AWS(학습 중)
+- Tooling: GitHub, VS Code, IntelliJ, Notion
+
+## 학력
+
+- 경성대학교 중국학과 졸업 (2013.3 ~ 2019.08)
+- 브니엘고등학교 (2010 ~ 2012)
+
+## 경력
+
+#### [ HY-LOK Corporation ](https://www.hy-lok.com/Index.hylok)
+
+  - 2023.10 ~
+  - 웹 풀스택 개발
+
+#### [ itwillbs ](https://www.itwillbs.co.kr/cmn/main/main.do)
+
+  - 2022.12.22 ~ 2023.06.16
+  - 핀테크 디지털 금융서비스 자바 교육과정
+  - 팀프로젝트 최우수상
 
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+## 프로젝트
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
-</div>
+### HY-LOK Corporation
 
-<br>
+레거시 시스템 Spring Boot 기반 웹 시스템으로 전환 프로젝트
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Kafka-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
-  
-</div>
+- 기간 : 2024.06 ~
+- 역할
+  - Micro/Mini Service 아키텍처 설계 참여 (Feign + Eureka 기반)
+  - 백엔드 및 프론트엔드 구조를 전면 재설계
+    - JWT 기반 인증 시스템 구축
+    - API 중심의 서비스 구조 설계
+  - Oracle DB 쿼리 리팩토링 및 성능 최적화
+  - 공통 모듈 설계 및 코드 리팩토링을 통한 재사용성 및 유지보수성 향상
 
-<br>
+- 관련 기술
+  - Backend : Java, Spring Boot, Spring Security, MyBatis, JWT
+  - Frontend : Vanilla JS, jQuery, Thymeleaf, BootStrap
+  - Database: Oracle
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
 
-<br>
+## 활동 내역
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://rich-yuna-daddy.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-E34F26?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="cjsghdud426@gmail.com">
-    <img
-      src="https://img.shields.io/badge/cjsghdud426@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
 
-<!--
-**HoYeong0426/HoYeong0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 기타
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language
+  - Korean : 원어민
+  - English : 중급
+- Certificates
+  - 정보처리기사
