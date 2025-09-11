@@ -1,9 +1,9 @@
 
 # Introduce.
 
-**"항상 고민하는 백엔드 개발자"**입니다.
+'항상 고민하고 있습니다.'
 
-단순히 기능이 **'동작하는 것'**을 넘어, **'효율적으로 동작하는 것'**에 대한 깊은 고민을 멈추지 않습니다.
+단순히 기능이 '동작하는 것'을 넘어, '효율적으로 동작하는 것'에 대한 깊은 고민을 멈추지 않습니다.
 
 레거시 시스템을 웹 환경으로 마이그레이션하는 과정에서, **10초를 넘기던 비효율적인 쿼리를 분석하고 인덱스 전략을 재설계**하여 로딩 시간을 **1초 미만으로 단축**했습니다.
 
@@ -23,7 +23,7 @@ Email : [cjsghdud426@gmail.com](mailto:cjsghdud426@gmail.com)
 
 **Blog:** https://rich-yuna-daddy.tistory.com/
 
-GitHub: https://github.com/HoYeong0426
+Resume: [https://github.com/HoYeong0426](https://hoyeong0426.github.io/resume/)
 
 ---
 
